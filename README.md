@@ -8,7 +8,7 @@ VTZero는 웹 애플리케이션으로 VirusTotal에서 IP 정보를 가져와 �
 ## 설정
 1. 리포지토리 클론
 ```sh
-   git clone https://github.com/DecoyZero/VTZero.git
+   git clone https://github.com/sqzer-x/VTZero.git
    cd your-repo
 ```
 
